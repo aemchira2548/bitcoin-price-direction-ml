@@ -1,0 +1,20 @@
+{
+  "features": [
+    "Open",
+    "High",
+    "Low",
+    "Close",
+    "Volume",
+    "Daily_Return",
+    "High_Low_Range",
+    "MA_7",
+    "MA_21",
+    "MA_Ratio",
+    "Volatility_7",
+    "RSI_14",
+    "Volume_Change"
+  ],
+  "best_model": "Logistic Regression",
+  "test_size": 341,
+  "train_size": 1360
+}
